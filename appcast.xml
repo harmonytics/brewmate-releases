@@ -8,14 +8,14 @@
 
         <item>
             <title>Version 1.4.0</title>
-            <pubDate>Wed, 28 Jan 2026 03:32:45 +0000</pubDate>
+            <pubDate>Wed, 28 Jan 2026 03:41:00 +0000</pubDate>
             <sparkle:version>1.4.0</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/harmonytics/brewmate-releases/releases/download/v1.4.0/BrewMate.dmg"
-                sparkle:edSignature="n+9nh7Gk3AH9ooclRfrAIEauTVmW/bGuLcrw/NU92NgnYK6p3FjirGJHtgz62xdxHGbA1tUFYsT4pw453dwQCw=="
-                length="5213015"
+                sparkle:edSignature="HOOoAnNsrx5XYd9+ZiOdviIb+y1vlKTPV2WJOH9Izcr5duZwn6EnYF7BExkDirV3+XtONkzSQW7jySv56sfbCQ=="
+                length="5213622"
                 type="application/octet-stream"
             />
         </item>
